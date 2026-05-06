@@ -3,6 +3,7 @@
 .DS_Store
 website/test.js
 data
+database_data
 public_assets
 nginx/ssl/*.pem
 nginx/ssl/*.key
